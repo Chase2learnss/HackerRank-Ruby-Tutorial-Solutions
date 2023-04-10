@@ -1,5 +1,4 @@
 # HackerRank-Ruby-Tutorial-Solutions
-# HackerRank-Ruby-Tutorial-Solutions
 <p>&nbsp;</p><!-- wp:heading -->
 <h2 class="wp-block-heading">HackerRank&nbsp;Ruby Tutorial Solutions</h2>
 <!-- /wp:heading -->
